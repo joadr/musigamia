@@ -1,0 +1,4 @@
+[Fri Feb 14 02:10:48.827349 2014] [:error] [pid 8141] [client 127.0.0.1:48681] PHP Fatal error:  Call to undefined function get_url_contents() in /home/joako/Ubuntu One/musigamia/app/controllers/BusquedaController.php on line 10
+[Fri Feb 14 15:19:11.858514 2014] [:error] [pid 1368] [client 127.0.0.1:51840] PHP Parse error:  syntax error, unexpected '$id' (T_VARIABLE) in /home/joako/Ubuntu One/musigamia/app/controllers/MusicaController.php on line 10
+[Fri Feb 14 16:51:28.786539 2014] [:error] [pid 1366] [client 127.0.0.1:52400] PHP Parse error:  syntax error, unexpected ')' in /home/joako/Ubuntu One/musigamia/app/controllers/MusicaController.php on line 14
+[Fri Feb 14 16:54:25.427441 2014] [:error] [pid 1366] [client 127.0.0.1:52449] PHP Parse error:  syntax error, unexpected '$header' (T_VARIABLE) in /home/joako/Ubuntu One/musigamia/app/controllers/MusicaController.php on line 18
